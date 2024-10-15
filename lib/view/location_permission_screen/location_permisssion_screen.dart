@@ -27,9 +27,11 @@ class LocationPermissionScreen extends StatelessWidget {
                     topLeft: Radius.circular(30),
                     topRight: Radius.circular(30))),
             child: Text('Allow Kerigo to access your location',),
+            
           ),
         ),
       ),
+      
     );
   }
 }

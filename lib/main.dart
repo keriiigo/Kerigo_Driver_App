@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:hexcolor/hexcolor.dart';
 import 'package:kerigo_driver_app/view/location_permission_screen/location_permisssion_screen.dart';
+import 'package:kerigo_driver_app/view/selectlanguage/selectlanguage.dart';
 
 void main() {
   runApp(MyApp());
